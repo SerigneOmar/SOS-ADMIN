@@ -536,7 +536,7 @@ footer {
   nav {
     flex-direction: column;
     align-items: center;
-    padding: 0.5rem 0;
+    padding: 0.4rem ;
   }
   
   nav a {
@@ -546,7 +546,7 @@ footer {
   }
   
   main {
-    margin-top: 220px;
+    margin-top: 200px;
   }
   
   h1 {
